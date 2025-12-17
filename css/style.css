@@ -777,6 +777,9 @@ ul {
     transition: transform 0.5s ease;
 }
 
+.img3{
+    object-position:  right;
+}
 .social-overlay {
     position: absolute;
     bottom: -60px;
